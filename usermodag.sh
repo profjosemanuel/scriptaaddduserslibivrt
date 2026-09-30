@@ -9,12 +9,12 @@ USUARIOS=(
 GRUPO="libvirt"
 
 for usuario in "${USUARIOS[@]}"; do
-    if id "$usuario" &>/dev/null; then
+#    if id "$usuario" &>/dev/null; then
         echo "Añadiendo $usuario al grupo $GRUPO..."
         usermod -aG "$GRUPO" "$usuario"
-    else
-        echo "Aviso: el usuario '$usuario' no existe, se omite."
-    fi
+#    else
+#        echo "Aviso: el usuario '$usuario' no existe, se omite."
+#    fi
 done
 
 echo "Proceso completado."
