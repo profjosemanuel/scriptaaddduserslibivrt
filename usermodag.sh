@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 USUARIOS=(
-    "usuario1"
-    "usuario2"
-    "usuario3"
+    "gerangtol"
+    "rolarilop"
+    "bruarnlor"
 )
 
 GRUPO="libvirt"
