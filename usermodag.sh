@@ -7,6 +7,7 @@ USUARIOS=(
     "fercol2"
     "juadelnan"
     "usaduinaj"
+    "iagedsgon"
     "emmsolley"
     "eripermar"
     "hecquimac"
