@@ -8,6 +8,8 @@ USUARIOS=(
     "juadelnan"
     "usaduinaj"
     "emmsolley"
+    "eripermar"
+    "hecquimac"
     "patruscam"
     "adrrilcha"
     "kilrodgua"
