@@ -4,6 +4,16 @@ USUARIOS=(
     "gerangtol"
     "rolarilop"
     "bruarnlor"
+    "fercol2"
+    "juadelnan"
+    "usaduinaj"
+    "emmsolley"
+    "patruscam"
+    "adrrilcha"
+    "kilrodgua"
+    "izaromroi"
+    "valvelnaz"
+    "shiyan6"
 )
 
 GRUPO="libvirt"
