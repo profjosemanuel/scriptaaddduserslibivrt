@@ -13,6 +13,7 @@ USUARIOS=(
     "alehun"
     "makkom2"
     "joeleirop"
+    "marmirrua"
     "emmsolley"
     "eripermar"
     "hecquimac"
