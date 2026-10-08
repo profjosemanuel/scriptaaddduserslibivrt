@@ -17,6 +17,7 @@ USUARIOS=(
     "emmsolley"
     "eripermar"
     "hecquimac"
+    "izaromroi"
     "patruscam"
     "adrrilcha"
     "kilrodgua"
